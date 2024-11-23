@@ -1,5 +1,5 @@
 msgid ""
-msgstr "Content-Type: text/plain; charset=UTF-8"
+msgstr "Content-Type: text / plain; charset=UTF-8"
 
 msgid "Preferred LTE bands"
 msgstr "Предпочтительные диапазоны LTE"
@@ -11,240 +11,235 @@ msgid "Preferred 5G NSA bands"
 msgstr "Предпочтительные полосы 5G NSA"
 
 msgid "Currently set LTE bands"
-msgstr "Aktualnie ustawione pasma LTE"
+msgstr "В данный момент установлены диапазоны LTE"
 
 msgid "Currently set 5G SA bands"
-msgstr "Aktualnie ustawione pasma 5G SA"
+msgstr "В данный момент установлены полосы 5G SA"
 
 msgid "Currently set 5G NSA bands"
-msgstr "Aktualnie ustawione pasma 5G NSA"
+msgstr "В настоящее время установлены полосы 5G NSA"
 
 msgid "Preferred LTE/5G Bands"
-msgstr "Preferowane pasma LTE/5G"
+msgstr "Предпочтительные диапазоны LTE/5G"
 
 msgid "Supported LTE bands"
-msgstr "Obsługiwane pasma LTE"
+msgstr "Поддерживаемые диапазоны LTE"
 
 msgid "Supported 5G SA bands"
-msgstr "Obsługiwane pasma 5G SA"
+msgstr "Поддерживаемые полосы 5G SA"
 
 msgid "Supported 5G NSA bands"
-msgstr "Obsługiwane pasma 5G NSA"
+msgstr "Поддерживаемые полосы 5G NSA"
 
 msgid "5G bands cannot be read. Check if your modem supports this technology and if it is in the list of supported modems."
-msgstr "Nie można odczytać pasm 5G. Sprawdź czy twój modem wspiera tą technologię i czy jest na liście obsługiwanych modemów."
+msgstr "Невозможно прочитать полосы 5G. Проверьте, поддерживает ли ваш модем эту технологию и включен ли он в список поддерживаемых модемов."
 
 msgid "LTE bands cannot be read. Check if your modem supports this technology and if it is in the list of supported modems."
-msgstr "Nie można odczytać pasm LTE. Sprawdź czy twój modem wspiera tą technologię i czy jest na liście obsługiwanych modemów."
+msgstr "Невозможно прочитать диапазоны LTE. Проверьте, поддерживает ли ваш модем эту технологию и включен ли он в список поддерживаемых модемов."
 
-msgid ""
-"Configuration modem frequency bands. More "
-"information about the modemband application on the %seko.one.pl forum%s."
-msgstr ""
-"Konfiguracja preferowanych pasm modemu. Więcej "
-"informacji o aplikacji modemband na %sforum eko.one.pl%s."
+msgid "Configuration modem frequency bands. Моre information about the modemband application on the %seko.one.pl forum%s".
+msgstr "Настройка предпочтительных диапазонов модема. Больше информации о приложении modemband на %seko.one.pl forum%s."
 
 msgid "LTE Bands Configuration"
-msgstr "Konfiguracja pasm LTE"
+msgstr "Настройка диапазонов LTE"
 
 msgid "5G SA Bands Configuration"
-msgstr "Konfiguracja pasm 5G SA"
+msgstr "Настройка диапазонов 5G SA"
 
 msgid "5G NSA Bands Configuration"
-msgstr "Konfiguracja pasm 5G NSA"
+msgstr "Настройка полос 5G NSA"
 
-msgid "Preferred bands settings"
-msgstr "Ustawienia preferowanych pasm"
+msgid "Preferred Bands settings"
+msgstr "Параметры предпочтительных диапазонов"
 
 msgid "Modification of the bands"
-msgstr "Modyfikacja pasm"
+msgstr "Изменение полос"
 
 msgid "Modem information"
-msgstr "Informacje o modemie"
+msgstr "Информация о модеме"
 
 msgid "The new bands settings have been sent to the modem. If the changes are not visible, a restart of the connection, modem or router may be required."
-msgstr "Nowe ustawienia pasm zostały wysłane do modemu. Jeśli zmiany nie są widoczne, może być wymagane ponowne uruchomienie połączenia, modemu lub routera."
+msgstr "На модем были отправлены новые настройки диапазонов. Если изменения не видны, может потребоваться перезагрузка соединения, модема или маршрутизатора."
 
 msgid "Apply changes"
-msgstr "Zastosuj zmiany"
+msgstr "Применить изменения"
 
 msgid "Restore"
-msgstr "Przywróc"
+msgstr "Восстановить"
 
 msgid "Please select a band(s)"
-msgstr "Proszę wybrać pasmo(-a)"
+msgstr "Пожалуйста, выберите диапазон (ы)"
 
 msgid "Bands configuration"
-msgstr "Konfiguracja pasm"
+msgstr "Настройка групп"
 
 msgid "Restore default bands"
-msgstr "Przywróć domyślne pasma"
+msgstr "Восстановить полосы по умолчанию"
 
 msgid "Waiting for device..."
-msgstr "Oczekiwanie na urządzenie..."
+msgstr "Ожидание устройства..."
 
-msgid "Rebooting…"
-msgstr "Ponowne uruchamianie…"
+msgid "Rebooting..."
+msgstr "Перезагрузка..."
 
 msgid "Perform reboot"
-msgstr "Wykonaj restart"
+msgstr "Выполнить перезагрузку"
 
 msgid "Restart"
-msgstr "Restart połączenia"
+msgstr "Перезагрузка соединения"
 
 msgid "Reboot"
-msgstr "Restart urządzenia"
+msgstr "Перезагрузка устройства"
 
 msgid "Refresh"
-msgstr "Odśwież"
+msgstr "Обновить"
 
 msgid "Do you really want to restart the device?"
-msgstr "Czy na pewno chcesz wykonać restart urządzenia?"
+msgstr "Вы уверены, что хотите перезагрузить устройство?"
 
 msgid "Additional options"
-msgstr "Dodatkowe opcje"
+msgstr "Дополнительные опции"
 
-msgid "Select the preferred band(s) for the modem."
-msgstr "Wybierz preferowane pasmo(-a) dla modemu."
+msgid "Select the preferred band (s) for the modem."
+msgstr "Выберите предпочтительную полосу пропускания для модема."
 
 msgid "Do you really want to set up all possible bands for the modem?"
-msgstr "Czy na pewno chcesz ustawić wszystkie możliwe pasma dla modemu?"
+msgstr "Вы уверены, что хотите установить все возможные полосы для модема?"
 
 msgid "Preferred bands"
-msgstr "Preferowane pasma"
+msgstr "Предпочтительные полосы"
 
 msgid "Configuration"
-msgstr "Konfiguracja"
+msgstr "Настройка"
 
 msgid "Configuration modemband"
-msgstr "Konfiguracja modemband"
+msgstr "Настройка полос модема"
 
 msgid "Configuration panel for modemband and gui application."
-msgstr "Panel ustawień dla aplikacji modemband oraz dla interfejsu użytkownika."
+msgstr "Панель настроек для приложения modemband и пользовательского интерфейса."
 
 msgid "Interface"
-msgstr "Interfejs"
+msgstr "Интерфейс"
 
 msgid "Network interface for Internet access."
-msgstr "Interfejs sieciowy umożliwiający dostęp do Internetu."
+msgstr "Сетевой интерфейс для доступа в интернет."
 
 msgid "WAN restart after making changes to bands."
-msgstr "Restart WAN po wprowadzeniu zmian w pasmach."
+msgstr "Перезагрузка WAN после внесения изменений в группы."
 
 msgid "Modem restart"
-msgstr "Restart modemu"
+msgstr "Перезагрузка модема"
 
 msgid "Modem restart after making changes to bands."
-msgstr "Restart modemu po wprowadzeniu zmian w pasmach."
+msgstr "Перезагрузка модема после внесения изменений в диапазоны."
 
 msgid "Restart with AT command"
-msgstr "Restart poleceniem AT"
+msgstr "Перезагрузка командой AT"
 
 msgid "AT command to restart the modem."
-msgstr "Polecenie AT restartujące modem."
+msgstr "AT команда для перезапуска модема."
 
 msgid "Port for communication with the modem"
-msgstr "Port do komunikacji z modemem"
+msgstr "Порт для связи с модемом"
 
 msgid "Please select a port"
-msgstr "Proszę wybrać port"
+msgstr "Выберите порт"
 
-msgid "Select one of the available ttyUSBX ports."
-msgstr "Wybierz jeden z dostępnych portów ttyUSBX."
+msgid "Select one of the available ttyusbx ports."
+msgstr "Выберите один из доступных портов ttyUSBX ."
 
 msgid "No supported modem was found, quitting..."
-msgstr "Nie znaleziono obsługiwanego modemu, kończymy pracę..."
+msgstr "Поддерживаемый модем не найден, завершаем работу..."
 
 msgid "Port not found, quitting..."
-msgstr "Port nie został znaleziony, kończymy pracę..."
+msgstr "Порт не найден, завершаем работу..."
 
 msgid "Additional options useful for modem configuration."
-msgstr "Dodatkowe opcje przydatne przy konfiguracji modemu."
+msgstr "Дополнительные опции для настройки модема."
 
 msgid "Connection / router restart"
-msgstr "Restart połączenia / routera"
+msgstr "Перезагрузка соединения / маршрутизатора"
 
-msgid "Hint: The name of the WAN section can be changed in the package settings panel."
-msgstr "Podpowiedź: Nazwę sekcji WAN można zmienić w panelu ustawień pakietu."
+msgid "Hint: the name of the WAN section can be changed in the package settings panel."
+msgstr "Подсказка: имя раздела WAN можно изменить на панели настроек пакета."
 
 msgid "LTE band aggregation at UL (upload)"
-msgstr "Agregacja pasm LTE w UL (upload)"
+msgstr "Агрегация диапазонов LTE в UL (upload)"
 
 msgid "No supported modem / router was found..."
-msgstr "Nie znaleziono obsługiwanego modemu / routera..."
+msgstr "Поддерживаемый модем / маршрутизатор не найден..."
 
 msgid "Hint: Option dedicated to the ZTE MF286D router."
-msgstr "Podpowiedź: Opcja dedykowana dla routera ZTE MF286D."
+msgstr "Подсказка: опция, предназначенная для маршрутизатора ZTE MF286D."
 
 msgid "Enable aggregation"
-msgstr "Włącz agregację"
+msgstr "Включить агрегацию"
 
 msgid "Disable aggregation"
-msgstr "Wyłącz agregację"
+msgstr "Отключить агрегацию"
 
 msgid "Disable"
-msgstr "Wyłącz"
+msgstr "Отключить"
 
 msgid "Enable"
-msgstr "Włącz"
+msgstr "Включить"
 
 msgid "Turn off notifications"
-msgstr "Wyłącz powiadomienia"
+msgstr "Отключить уведомления"
 
 msgid "Appearance and action settings"
-msgstr "Ustawienia wyglądu i działania"
+msgstr "Настройки внешнего вида"
 
 msgid "Checking this option disables the notification that appears every time the bands are changed."
-msgstr "Zaznaczenie tej opcji wyłącza powiadomienie pojawiające się przy każdej zmianie pasm."
+msgstr "Выбор этой опции отключает уведомление, которое появляется при каждом изменении полос."
 
 msgid "Modem settings template"
-msgstr "Szablon ustawień modemu"
+msgstr "Шаблон настройки модема"
 
 msgid "Modem template configuration"
-msgstr "Konfiguracja szablonu modemu"
+msgstr "Настройка шаблона модема"
 
 msgid "Settings panel for the modemband application that allows you to customize the package for your modem."
-msgstr "Panel ustawień dla aplikacji modemband umożliwiający dostosowanie pakietu do posiadanego modemu."
+msgstr "Панель настроек modemband для настройки пакета в соответствии с вашим модемом."
 
 msgid "Edit script"
-msgstr "Edycja skryptu"
+msgstr "Редактирование скрипта"
 
 msgid "Supported bands depend on the region in which the modem operates. By modifying the DEFAULT_LTE_BANDS variable, you can easily adapt the package to your modem."
-msgstr "Obsługiwane pasma zależą od regionu w którym pracuje modem. Modyfikując zmienną DEFAULT_LTE_BANDS można łatwo dostosować pakiet do modemu."
+msgstr "Поддерживаемые полосы зависят от региона, в котором работает модем. Изменяя переменную DEFAULT_LTE_BANDS, вы можете легко адаптировать пакет к модему."
 
 msgid "Waiting to read data from the modem..."
-msgstr "Oczekiwanie na odczyt danych z modemu..."
+msgstr "Ожидание чтения данных с модема..."
 
 msgid "Edit"
-msgstr "Edycja"
+msgstr "Редактировать"
 
 msgid "Template loaded"
-msgstr "Wczytany szablon"
+msgstr "Загруженный шаблон"
 
-msgid "Refresh the view"
-msgstr "Odśwież widok"
+msgid "Refresh The view"
+msgstr "Обновить вид"
 
 msgid "Reload"
-msgstr "Wczytaj ponownie"
+msgstr "Перезагрузить"
 
 msgid "Select the modem settings file"
-msgstr "Wybierz plik ustawień modemu"
+msgstr "Выберите файл настроек модема"
 
 msgid "Select the template assigned to the Vendor and ProdID of the modem."
-msgstr "Wybierz szablon przypisany do dostawcy i ProdID modemu."
+msgstr "Выберите шаблон, назначенный поставщику и ProdID модема."
 
 msgid "Band selection switch"
-msgstr "Przełącznik wyboru pasm"
+msgstr "Переключатель выбора диапазонов"
 
 msgid "Deselect all"
-msgstr "Odznacz wszystkie"
+msgstr "Снять все"
 
 msgid "Select all"
-msgstr "Zaznacz wszystkie"
+msgstr "Выбрать все"
 
 msgid "Bands are disabled..."
-msgstr "Pasma są wyłączone..."
+msgstr "Полосы отключены..."
 
 msgid "Check if you have selected the bands correctly."
-msgstr "Sprawdź, czy prawidłowo wybrałeś pasma."
-
+msgstr "Проверьте, правильно ли вы выбрали группы."
