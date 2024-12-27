@@ -5,7 +5,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Preferred LTE bands"
-msgstr "Предпочтительные диапазоны LTE"
+msgstr "Управление частотами"
+#msgstr "Предпочтительные диапазоны LTE"
 
 msgid "Preferred 5G SA bands"
 msgstr "Предпочтительные полосы 5G SA"
